@@ -8,7 +8,7 @@ An AI-powered platform that enables users to generate complete, responsive websi
 🔗 https://ai-website-bulider1-0lvn.onrender.com/
 
 ## 📂 GitHub Repository
-🔗 https://github.com/UtkarshDashora/AI-website-bulider1
+🔗 https://github.com/UtkarshDashora/AI-website-bulider
 
 ---
 
